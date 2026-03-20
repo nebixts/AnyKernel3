@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=manual cook by p1r377o @ github
+kernel.string=NeFaRiaN KERNEL, manual cook by p1r377o @ github.
 do.devicecheck=1
 do.modules=0
 do.systemless=0
